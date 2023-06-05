@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  
+  input[type="text"] {
+    padding: 5px;
+    width: 200px;
+  }
+  
+  button {
+    padding: 5px 10px;
+  }
+  
+  #attendanceList {
+    border-top: 1px solid #ccc;
+    padding-top: 20px;
+  }
+  
+  #attendanceItems {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  #attendanceItems li {
+    margin-bottom: 5px;
+  }
+  
